@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "title": "Python basics",
+        "description": "Do Python basics from Corey Schafer. Explore strings, tuples, lists, mixins, decorators, iterators",
+        "is_completed": false,
+        "created_at": "2025-10-18 00:00:00"
+    },
+    {
+        "id": 2,
+        "title": "FastAPI",
+        "description": "Do FastAPI and explore how it can speed up development process",
+        "is_completed": false,
+        "created_at": "2025-10-18 00:00:00"
+    }
+]
